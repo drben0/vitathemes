@@ -1,4 +1,4 @@
 # bloodcells by drben
 
-![preview1.png](https://github.com/xy2iii/vitashell-themes/blob/master/themes/bloodcells_by_drben/preview1.jpg)
+![preview1.png](https://github.com/drben0/vitathemes/blob/master/preview1.jpg)
 
